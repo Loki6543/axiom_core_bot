@@ -1,0 +1,7 @@
+.env
+axiom_core_bot.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
